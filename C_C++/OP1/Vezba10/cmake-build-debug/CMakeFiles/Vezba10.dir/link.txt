@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Vezba10.dir/main.cpp.o CMakeFiles/Vezba10.dir/Knjiga.cpp.o CMakeFiles/Vezba10.dir/Polica.cpp.o  -o Vezba10 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Vezba7.dir/main.cpp.o CMakeFiles/Vezba7.dir/Broj.cpp.o CMakeFiles/Vezba7.dir/KompleksanBroj.cpp.o  -o Vezba7 

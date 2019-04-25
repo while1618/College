@@ -1,0 +1,40 @@
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\bin\Debug\MindSweeper.exe.config
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\bin\Debug\MindSweeper.exe
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\bin\Debug\MindSweeper.pdb
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MainWindow.g.cs
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\App.g.cs
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper_MarkupCompile.cache
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper_MarkupCompile.lref
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MainWindow.baml
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper.g.resources
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper.Properties.Resources.resources
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper.csproj.GenerateResource.Cache
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper.exe
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper.pdb
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\EasyWindow.g.cs
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\HardWindow.g.cs
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MediumWindow.g.cs
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\EasyWindow.baml
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\HardWindow.baml
+c:\users\while\documents\visual studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MediumWindow.baml
+C:\Users\While\Documents\Visual Studio 2015\Projects\MindSweeper\MindSweeper\obj\Debug\MindSweeper.csprojResolveAssemblyReference.cache
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\bin\Debug\MindSweeper.exe.config
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper.exe
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper.pdb
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\bin\Debug\MindSweeper.exe
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\bin\Debug\MindSweeper.pdb
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper.csprojResolveAssemblyReference.cache
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\EasyWindow.g.cs
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\HardWindow.g.cs
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MainWindow.g.cs
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MediumWindow.g.cs
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\App.g.cs
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper_MarkupCompile.cache
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper_MarkupCompile.lref
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\EasyWindow.baml
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\HardWindow.baml
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MainWindow.baml
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MediumWindow.baml
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper.g.resources
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper.Properties.Resources.resources
+C:\Users\while\Dropbox\Kodovi\TVP (C#)\MindSweeper\MindSweeper\obj\Debug\MindSweeper.csproj.GenerateResource.Cache

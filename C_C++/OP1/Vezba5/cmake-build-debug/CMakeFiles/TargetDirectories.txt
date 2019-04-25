@@ -1,0 +1,3 @@
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba5(clean code)/cmake-build-debug/CMakeFiles/vezba5_proba.dir
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba5(clean code)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba5(clean code)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

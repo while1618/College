@@ -1,0 +1,3 @@
+C:/Users/While/Dropbox/Kodovi/OS/Diplomski/cmake-build-debug/CMakeFiles/Diplomski.dir
+C:/Users/While/Dropbox/Kodovi/OS/Diplomski/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/While/Dropbox/Kodovi/OS/Diplomski/cmake-build-debug/CMakeFiles/rebuild_cache.dir

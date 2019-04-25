@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Projekat.1292607650.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Projekat" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Projekat.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="admin" t="Include">
+          <e p="GlavnaAdminForma.Designer.cs" t="Include" />
+          <e p="GlavnaAdminForma.cs" t="Include" />
+          <e p="GlavnaAdminForma.resx" t="Include" />
+          <e p="IzbornaListaForm.Designer.cs" t="Include" />
+          <e p="IzbornaListaForm.cs" t="Include" />
+          <e p="IzbornaListaForm.resx" t="Include" />
+          <e p="PredmetForm.Designer.cs" t="Include" />
+          <e p="PredmetForm.cs" t="Include" />
+          <e p="PredmetForm.resx" t="Include" />
+          <e p="SmerForm.Designer.cs" t="Include" />
+          <e p="SmerForm.cs" t="Include" />
+          <e p="SmerForm.resx" t="Include" />
+          <e p="StatistikaForm.Designer.cs" t="Include" />
+          <e p="StatistikaForm.cs" t="Include" />
+          <e p="StatistikaForm.resx" t="Include" />
+          <e p="StudentForm.Designer.cs" t="Include" />
+          <e p="StudentForm.cs" t="Include" />
+          <e p="StudentForm.resx" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="korisnik" t="Include">
+          <e p="KorisnikForm.Designer.cs" t="Include" />
+          <e p="KorisnikForm.cs" t="Include" />
+          <e p="KorisnikForm.resx" t="Include" />
+        </e>
+        <e p="main" t="Include">
+          <e p="PocetnaForm.Designer.cs" t="Include" />
+          <e p="PocetnaForm.cs" t="Include" />
+          <e p="PocetnaForm.resx" t="Include" />
+        </e>
+        <e p="moje_klase" t="Include">
+          <e p="DataBase.cs" t="Include" />
+          <e p="IzbornaLista.cs" t="Include" />
+          <e p="Korisnik.cs" t="Include" />
+          <e p="MojDataSet.cs" t="Include" />
+          <e p="Predmet.cs" t="Include" />
+          <e p="PredmetSmer.cs" t="Include" />
+          <e p="Smer.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="Projekat.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

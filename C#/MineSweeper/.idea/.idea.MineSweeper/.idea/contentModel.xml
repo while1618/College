@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_MineSweeper.1713524720.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="MineSweeper" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="EasyWindow.xaml" t="Include" />
+        <e p="EasyWindow.xaml.cs" t="Include" />
+        <e p="HardWindow.xaml" t="Include" />
+        <e p="HardWindow.xaml.cs" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="MediumWindow.xaml" t="Include" />
+        <e p="MediumWindow.xaml.cs" t="Include" />
+        <e p="MineSweeper.csproj" t="IncludeRecursive" />
+        <e p="MineSweeperLogic.cs" t="Include" />
+        <e p="MyFile.cs" t="Include" />
+        <e p="MyGraphics.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="TimeThread.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="files" t="Include">
+          <e p="easy.txt" t="Include" />
+          <e p="hard.txt" t="Include" />
+          <e p="medium.txt" t="Include" />
+        </e>
+        <e p="img" t="Include">
+          <e p="flag.png" t="Include" />
+          <e p="mine.jpg" t="Include" />
+          <e p="redMine.jpg" t="Include" />
+          <e p="smile.png" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="MineSweeper.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

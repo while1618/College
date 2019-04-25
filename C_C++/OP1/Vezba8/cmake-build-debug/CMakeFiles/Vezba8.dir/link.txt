@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Vezba8.dir/main.cpp.o CMakeFiles/Vezba8.dir/List.cpp.o CMakeFiles/Vezba8.dir/Knjiga.cpp.o  -o Vezba8 

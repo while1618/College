@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dejan/CLionProjects/Vezba11/Kompleks.cpp
+cmath
+-
+Kompleks.h
+/home/dejan/CLionProjects/Vezba11/Kompleks.h
+
+/home/dejan/CLionProjects/Vezba11/Kompleks.h
+iostream
+-
+
+/home/dejan/CLionProjects/Vezba11/main.cpp
+iostream
+-
+Kompleks.h
+/home/dejan/CLionProjects/Vezba11/Kompleks.h
+

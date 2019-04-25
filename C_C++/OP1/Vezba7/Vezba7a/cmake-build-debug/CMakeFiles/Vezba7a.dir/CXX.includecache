@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Izlozba.cpp
+Izlozba.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Izlozba.h
+iostream
+-
+
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Izlozba.h
+KatalogMuzeja.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/KatalogMuzeja.h
+
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/KatalogMuzeja.cpp
+KatalogMuzeja.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/KatalogMuzeja.h
+iostream
+-
+
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/KatalogMuzeja.h
+Slika.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Slika.h
+
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Slika.cpp
+Slika.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Slika.h
+iostream
+-
+
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Slika.h
+iostream
+-
+
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/main.cpp
+iostream
+-
+Slika.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Slika.h
+KatalogMuzeja.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/KatalogMuzeja.h
+Izlozba.h
+/home/dejan/Dropbox/Kodovi/Objektno programiranje 1/Vezba7/Vezba7a/Izlozba.h
+

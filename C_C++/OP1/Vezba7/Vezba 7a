@@ -1,0 +1,9 @@
+Napisati klasu SLika koja ima slede�e argumete: Katalo�kiBroj, Naziv, Autor, Godina, Cena, Du�ina i �irina. Ima konstruktor kojim se zadaju vrednosti za argumente. Klasa treba da ima Getere i Setere, kao i funkciju za ispis Slike.
+
+Napisati klasu KatalogMuzeja koja predstavlja niz Slika. Pored konstruktora koji treba da inicijalizuje niz i da popuni niz vrednostima, treba da ima funkcije za dodavanja Slike na kraj niza i za brisanja slike na osnovu zadatog indeksa, kao i funkciju za ispis KatalogaMuzeja.
+
+Napisati klasu Izlo�ba koja ima argument MaksimalniBrojSLika i  SlikeZaIzlo�bu iz KatalogaMuzeja koji se mo�e dobiti konstruktorom sa podrazumevanim argumentom za broj Slika (Maksilmalni broj SLika) i sa podrazumevanim Katalo�kim Brojevima ili konstruktorom sa neodredjenim brojem argumenata koji predstavljaju Katalo�kiBroj ili Naziv Slike, funkciju za dodavanje Slike na mesto zadato indeksom niza i funkciju za brisanje slike na osnovu zadatog indeksa. 
+
+Napisati klasu Kviz koja ima slede�e argumente: OdgovorIgra�a koja sadr�i indeks 1-4, IzabranaSlika iz Izlo�be dobijena konstruktorom koji slu�ajnim izborom bira jednu od slika sa Izlo�be, BrojSakrivenihPolja slike (najmanje jedno od 9), indeks reda i indeks kolone polja koje se otvara, funkciju za izbor reda i kolone polja koje se otvara i a�uriranje broja otvorenih polja, funkciju za generisanje tri  slu�ajno ponudjena odgovora i jednog ta�nog, kao i za uzimanje OdgovoraIgra�a, funkciju za proveru odgovora, funkciju za ra�unanje i ispis broja poena na osnovu broja otvorenih polja.
+
+U glavnom programu kreirati KatalogMuzeja i ispisati, kreirati Izlo�bu i ispisati, Izabrati sliku za Kviz, cikli�no ponavljati do pogotka igra�a funkciju sa ponudjenim izborom odgovora i uzimanjem OdgovoraIgra�a, funkciju za proveru odgovora, funkciju za izbor reda i kolone polja koje se otvara. Nakon pogotka ispisati broj poena. 

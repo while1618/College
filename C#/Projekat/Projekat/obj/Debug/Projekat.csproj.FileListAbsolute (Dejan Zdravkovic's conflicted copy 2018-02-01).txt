@@ -1,0 +1,34 @@
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\bin\Debug\Projekat.exe.config
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\bin\Debug\Projekat.exe
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\bin\Debug\Projekat.pdb
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.exe
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.pdb
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.PocetnaForm.resources
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.AdministracijaForm.resources
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.StudentForm.resources
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.AzuriranjePredmetaForm.resources
+c:\users\while\documents\visual studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.AzuriranjeSmeraForm.resources
+C:\Users\While\Documents\Visual Studio 2015\Projects\Projekat\Projekat\bin\Debug\System.Data.SQLite.dll
+C:\Users\While\Documents\Visual Studio 2015\Projects\Projekat\Projekat\bin\Debug\System.Data.SQLite.xml
+C:\Users\While\Documents\Visual Studio 2015\Projects\Projekat\Projekat\obj\Debug\Projekat.AzuriranjeStudentaForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\bin\Debug\System.Data.SQLite.dll
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\bin\Debug\System.Data.SQLite.xml
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.AzuriranjePredmetaForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.AzuriranjeSmeraForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.AzuriranjeStudentaForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.PocetnaForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.AdministracijaForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.StudentForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.AzuriranjeIzborneListeForm.resources
+C:\Users\While\Dropbox\Kodovi\TVP (C#)\Projekat\Projekat\obj\Debug\Projekat.PrikazStatistikeForm.resources

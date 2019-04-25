@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad3ee66e-fea4-494a-967b-0361a292a24a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1046381504">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="4" />
+          <entry key="xaml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+          <entry key="XAML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MineSweeper/MineSweeperLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2044">
+              <caret line="121" column="13" lean-forward="true" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+              <folding>
+                <marker date="1518805386000" expanded="false" signature="6:160" ph="..." />
+                <marker date="1518805386000" expanded="true" signature="183:13880" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="212:13878" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="1004:1985" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="2042:2114" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="2182:2362" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="2404:2536" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="2572:3041" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="2633:3031" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="2705:3017" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="3074:3276" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="3120:3188" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="3311:3838" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="3415:3828" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="3892:4455" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="3953:4445" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="4025:4431" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="4099:4413" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="4220:4347" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="4518:4845" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="4888:5196" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="4949:5186" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="5021:5172" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="5263:5943" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="5332:5933" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="5503:5698" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="5719:5919" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="6012:6583" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="6222:6573" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="6624:6860" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="6674:6850" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="6915:7780" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="6972:7770" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="7053:7756" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="7147:7738" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="7286:7416" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="7487:7605" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="7605:7716" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="7841:7972" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="8032:8125" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="8190:8276" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="8367:8618" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="8670:8830" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="8867:9221" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="8928:9211" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="9000:9197" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="9073:9179" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="9260:9513" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="9321:9503" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="9393:9489" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="9576:9739" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="9796:10169" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10197:10593" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10258:10558" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10330:10544" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10444:10526" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10630:10984" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10691:10974" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10763:10960" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="10836:10942" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11023:11159" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11198:11274" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11313:11496" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11550:11786" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11612:11776" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11688:11762" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11839:12075" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11901:12065" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="11977:12051" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12126:12362" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12188:12352" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12264:12338" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12415:12651" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12477:12641" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12553:12627" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12709:12953" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12775:12943" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="12855:12929" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13011:13255" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13077:13245" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13157:13231" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13313:13557" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13379:13547" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13459:13533" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13615:13859" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13681:13849" ph="{...}" />
+                <marker date="1518805386000" expanded="true" signature="13761:13835" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MineSweeper/TimeThread.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MineSweeper/MineSweeperLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MineSweeper/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MineSweeper/MyFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MineSweeper/MyGraphics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MineSweeper/EasyWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MineSweeper" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MineSweeper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MineSweeper" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="Rider.SolutionAnalysis.Framework..NETFramework,Version=v4.5.2" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MineSweeper/bin/Debug/MindSweeper.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MineSweeper/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MineSweeper/MineSweeper.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad3ee66e-fea4-494a-967b-0361a292a24a" name="Default" comment="" />
+      <created>1534784096163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534784096163</updated>
+      <workItem from="1534784100175" duration="49000" />
+      <workItem from="1536610753258" duration="8000" />
+      <workItem from="1536611026366" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="249000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1920" height="1052" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16898395" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32910052" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32994652" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MineSweeper/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1518674988000" expanded="true" signature="0:363" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1518674988000" expanded="true" signature="286:348" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeper/EasyWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1518804292000" expanded="true" signature="0:4885" ph="&lt;&lt;Window.Resources&gt;&#10;        &lt;Image x:Key=&quot;picture&quot; Source=&quot;C:\Users\While\Dropbox\Kodovi\TVP (C##)\MineSweeper\MineSweeper\img\smile.png&quot; Width=&quot;55&quot; Height=&quot;50&quot;&gt;&#10;        &lt;/Image&gt;&#10;        &lt;Storyboard x:Key=&quot;Storyboard1&quot;&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;7&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.978&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;168.666&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.668&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;5.726&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.992&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;-3.333&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.333&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;Int32AnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(Panel.ZIndex)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;1&quot;/&gt;&#10;            &lt;/Int32AnimationUsingKeyFrames&gt;&#10;        &lt;/Storyboard&gt;&#10;    &lt;/Window.Resources&gt; &lt;Grid x:Name=&quot;grid&quot; Margin=&quot;0,100,-2,0&quot; RenderTransformOrigin=&quot;0.496,0.507&quot;&gt;&#10;        &lt;Grid.RowDefinitions &gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;Grid.ColumnDefinitions &gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;  /&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;42.45&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;Label x:Name=&quot;labelMine&quot; Content=&quot;0&quot; FontSize=&quot;18&quot; HorizontalContentAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;0,-71,5,66&quot; VerticalAlignment=&quot;Center&quot; RenderTransformOrigin=&quot;2.231,0.577&quot; Grid.ColumnSpan=&quot;2&quot; Height=&quot;35&quot; Width=&quot;80&quot; Grid.Column=&quot;1&quot;/&gt;&#10;        &lt;Label x:Name=&quot;labelTime&quot; Content=&quot;0&quot; FontSize=&quot;18&quot; HorizontalContentAlignment=&quot;Center&quot; Grid.Column=&quot;7&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;5,-71,0,66&quot; VerticalAlignment=&quot;Center&quot; Grid.ColumnSpan=&quot;2&quot; Height=&quot;35&quot; Width=&quot;80&quot;/&gt;&#10;        &lt;Button x:Name=&quot;smileButton&quot; Grid.ColumnSpan=&quot;2&quot; Content=&quot;{StaticResource picture}&quot; Grid.Column=&quot;4&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;4.675,-86.303,1.225,54.696&quot; VerticalAlignment=&quot;Center&quot; Width=&quot;79&quot; Height=&quot;62&quot; RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;            &lt;Button.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform/&gt;&#10;                    &lt;RotateTransform/&gt;&#10;                    &lt;TranslateTransform/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/Button.RenderTransform&gt;&#10;        &lt;/Button&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="489:2852" ph="&lt;&lt;Image x:Key=&quot;picture&quot; Source=&quot;C:\Users\While\Dropbox\Kodovi\TVP (C##)\MineSweeper\MineSweeper\img\smile.png&quot; Width=&quot;55&quot; Height=&quot;50&quot;&gt;&#10;        &lt;/Image&gt; &lt;Storyboard x:Key=&quot;Storyboard1&quot;&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;7&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.978&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;168.666&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.668&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;5.726&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.992&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;-3.333&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.333&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt;&#10;            &lt;Int32AnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(Panel.ZIndex)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;1&quot;/&gt;&#10;            &lt;/Int32AnimationUsingKeyFrames&gt;&#10;        &lt;/Storyboard&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="516:665" ph="&lt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="674:2828" ph="&lt;&lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;7&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.978&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt; &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;168.666&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.668&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt; &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;5.726&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.992&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt; &lt;DoubleAnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;-3.333&quot;/&gt;&#10;                &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.333&quot;/&gt;&#10;            &lt;/DoubleAnimationUsingKeyFrames&gt; &lt;Int32AnimationUsingKeyFrames Storyboard.TargetProperty=&quot;(Panel.ZIndex)&quot; Storyboard.TargetName=&quot;smileButton&quot;&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;1&quot;/&gt;&#10;                &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;1&quot;/&gt;&#10;            &lt;/Int32AnimationUsingKeyFrames&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="719:1138" ph="&lt;&lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;7&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.978&quot;/&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="1151:1576" ph="&lt;&lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;168.666&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.668&quot;/&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="1589:2012" ph="&lt;&lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;5.726&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;0.992&quot;/&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="2025:2449" ph="&lt;&lt;EasingDoubleKeyFrame KeyTime=&quot;0&quot; Value=&quot;0&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;-3.333&quot;/&gt; &lt;EasingDoubleKeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;-0.333&quot;/&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="2462:2806" ph="&lt;&lt;EasingInt32KeyFrame KeyTime=&quot;0&quot; Value=&quot;1&quot;/&gt; &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:1&quot; Value=&quot;1&quot;/&gt; &lt;EasingInt32KeyFrame KeyTime=&quot;0:0:2&quot; Value=&quot;1&quot;/&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="2857:4875" ph="&lt;&lt;Grid.RowDefinitions &gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition /&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions &gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;  /&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;42.45&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Label x:Name=&quot;labelMine&quot; Content=&quot;0&quot; FontSize=&quot;18&quot; HorizontalContentAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;0,-71,5,66&quot; VerticalAlignment=&quot;Center&quot; RenderTransformOrigin=&quot;2.231,0.577&quot; Grid.ColumnSpan=&quot;2&quot; Height=&quot;35&quot; Width=&quot;80&quot; Grid.Column=&quot;1&quot;/&gt; &lt;Label x:Name=&quot;labelTime&quot; Content=&quot;0&quot; FontSize=&quot;18&quot; HorizontalContentAlignment=&quot;Center&quot; Grid.Column=&quot;7&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;5,-71,0,66&quot; VerticalAlignment=&quot;Center&quot; Grid.ColumnSpan=&quot;2&quot; Height=&quot;35&quot; Width=&quot;80&quot;/&gt; &lt;Button x:Name=&quot;smileButton&quot; Grid.ColumnSpan=&quot;2&quot; Content=&quot;{StaticResource picture}&quot; Grid.Column=&quot;4&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;4.675,-86.303,1.225,54.696&quot; VerticalAlignment=&quot;Center&quot; Width=&quot;79&quot; Height=&quot;62&quot; RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;            &lt;Button.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform/&gt;&#10;                    &lt;RotateTransform/&gt;&#10;                    &lt;TranslateTransform/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/Button.RenderTransform&gt;&#10;        &lt;/Button&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="2942:3295" ph="&lt;&lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt; &lt;RowDefinition /&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="3304:3789" ph="&lt;&lt;ColumnDefinition Width=&quot;*&quot;  /&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;42.45&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="4300:4863" ph="&lt;&lt;Button.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform/&gt;&#10;                    &lt;RotateTransform/&gt;&#10;                    &lt;TranslateTransform/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/Button.RenderTransform&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="4560:4845" ph="&lt;&lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform/&gt;&#10;                    &lt;RotateTransform/&gt;&#10;                    &lt;TranslateTransform/&gt;&#10;                &lt;/TransformGroup&gt;.../&gt;" />
+            <marker date="1518804292000" expanded="true" signature="4601:4807" ph="&lt;&lt;ScaleTransform/&gt; &lt;SkewTransform/&gt; &lt;RotateTransform/&gt; &lt;TranslateTransform/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeper/MyFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <folding>
+            <marker date="1518724556000" expanded="false" signature="6:64" ph="..." />
+            <marker date="1518724556000" expanded="true" signature="87:3009" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="106:3007" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="426:590" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="633:1343" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="738:1092" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="1109:1333" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="1234:1319" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="1392:1489" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="1558:2491" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="1930:2413" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="1975:2383" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="2157:2328" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="2541:3001" ph="{...}" />
+            <marker date="1518724556000" expanded="true" signature="2815:2889" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeper/TimeThread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1518675262000" expanded="false" signature="6:108" ph="..." />
+            <marker date="1518675262000" expanded="true" signature="131:1107" ph="{...}" />
+            <marker date="1518675262000" expanded="true" signature="154:1105" ph="{...}" />
+            <marker date="1518675262000" expanded="true" signature="372:489" ph="{...}" />
+            <marker date="1518675262000" expanded="true" signature="516:916" ph="{...}" />
+            <marker date="1518675262000" expanded="true" signature="555:896" ph="{...}" />
+            <marker date="1518675262000" expanded="true" signature="597:882" ph="{...}" />
+            <marker date="1518675262000" expanded="true" signature="957:1015" ph="{...}" />
+            <marker date="1518675262000" expanded="true" signature="1048:1099" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeper/MyGraphics.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <folding>
+            <marker date="1518723557000" expanded="false" signature="6:162" ph="..." />
+            <marker date="1518723557000" expanded="true" signature="185:5506" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="208:5504" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="828:1439" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="1479:1693" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="1733:1947" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="1990:2216" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="2257:2612" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="2650:3144" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="2711:3134" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="2783:3120" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="3227:4472" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="3391:4462" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="4511:4559" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="4598:4652" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="4690:4743" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="4784:4840" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="4878:4928" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="4970:5020" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="5057:5107" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="5147:5199" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="5241:5291" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="5336:5389" ph="{...}" />
+            <marker date="1518723557000" expanded="true" signature="5436:5498" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeper/MineSweeperLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2044">
+          <caret line="121" column="13" lean-forward="true" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+          <folding>
+            <marker date="1518805386000" expanded="false" signature="6:160" ph="..." />
+            <marker date="1518805386000" expanded="true" signature="183:13880" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="212:13878" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="1004:1985" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="2042:2114" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="2182:2362" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="2404:2536" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="2572:3041" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="2633:3031" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="2705:3017" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="3074:3276" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="3120:3188" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="3311:3838" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="3415:3828" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="3892:4455" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="3953:4445" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="4025:4431" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="4099:4413" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="4220:4347" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="4518:4845" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="4888:5196" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="4949:5186" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="5021:5172" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="5263:5943" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="5332:5933" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="5503:5698" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="5719:5919" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="6012:6583" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="6222:6573" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="6624:6860" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="6674:6850" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="6915:7780" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="6972:7770" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="7053:7756" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="7147:7738" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="7286:7416" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="7487:7605" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="7605:7716" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="7841:7972" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="8032:8125" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="8190:8276" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="8367:8618" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="8670:8830" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="8867:9221" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="8928:9211" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="9000:9197" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="9073:9179" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="9260:9513" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="9321:9503" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="9393:9489" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="9576:9739" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="9796:10169" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10197:10593" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10258:10558" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10330:10544" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10444:10526" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10630:10984" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10691:10974" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10763:10960" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="10836:10942" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11023:11159" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11198:11274" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11313:11496" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11550:11786" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11612:11776" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11688:11762" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11839:12075" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11901:12065" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="11977:12051" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12126:12362" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12188:12352" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12264:12338" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12415:12651" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12477:12641" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12553:12627" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12709:12953" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12775:12943" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="12855:12929" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13011:13255" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13077:13245" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13157:13231" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13313:13557" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13379:13547" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13459:13533" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13615:13859" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13681:13849" ph="{...}" />
+            <marker date="1518805386000" expanded="true" signature="13761:13835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

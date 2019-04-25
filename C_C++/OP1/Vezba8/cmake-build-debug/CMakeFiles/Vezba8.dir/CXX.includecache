@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dejan/CLionProjects/Vezba8/Knjiga.cpp
+Knjiga.h
+/home/dejan/CLionProjects/Vezba8/Knjiga.h
+
+/home/dejan/CLionProjects/Vezba8/Knjiga.h
+iostream
+-
+List.h
+/home/dejan/CLionProjects/Vezba8/List.h
+
+/home/dejan/CLionProjects/Vezba8/List.cpp
+cstring
+-
+List.h
+/home/dejan/CLionProjects/Vezba8/List.h
+
+/home/dejan/CLionProjects/Vezba8/List.h
+iostream
+-
+
+/home/dejan/CLionProjects/Vezba8/main.cpp
+iostream
+-
+List.h
+/home/dejan/CLionProjects/Vezba8/List.h
+Knjiga.h
+/home/dejan/CLionProjects/Vezba8/Knjiga.h
+

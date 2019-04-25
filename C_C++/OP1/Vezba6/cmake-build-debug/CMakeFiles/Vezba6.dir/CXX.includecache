@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dejan/CLionProjects/Vezba6/KutijaPeza.cpp
+KutijaPeza.h
+/home/dejan/CLionProjects/Vezba6/KutijaPeza.h
+iostream
+-
+
+/home/dejan/CLionProjects/Vezba6/KutijaPeza.h
+Pez.h
+/home/dejan/CLionProjects/Vezba6/Pez.h
+
+/home/dejan/CLionProjects/Vezba6/Pez.cpp
+Pez.h
+/home/dejan/CLionProjects/Vezba6/Pez.h
+
+/home/dejan/CLionProjects/Vezba6/Pez.h
+iostream
+-
+
+/home/dejan/CLionProjects/Vezba6/main.cpp
+iostream
+-
+Pez.h
+/home/dejan/CLionProjects/Vezba6/Pez.h
+KutijaPeza.h
+/home/dejan/CLionProjects/Vezba6/KutijaPeza.h
+

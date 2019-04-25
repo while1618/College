@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Vezba11.dir/main.cpp.o CMakeFiles/Vezba11.dir/Kompleks.cpp.o CMakeFiles/Vezba11.dir/NizKompleksnih.cpp.o  -o Vezba11 

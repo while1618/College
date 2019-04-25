@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Vezba7a.dir/main.cpp.o CMakeFiles/Vezba7a.dir/Slika.cpp.o CMakeFiles/Vezba7a.dir/KatalogMuzeja.cpp.o CMakeFiles/Vezba7a.dir/Izlozba.cpp.o  -o Vezba7a 

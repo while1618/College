@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dejan/CLionProjects/Vezba7/Broj.cpp
+Broj.h
+/home/dejan/CLionProjects/Vezba7/Broj.h
+
+/home/dejan/CLionProjects/Vezba7/Broj.h
+iostream
+-
+
+/home/dejan/CLionProjects/Vezba7/KompleksanBroj.cpp
+KompleksanBroj.h
+/home/dejan/CLionProjects/Vezba7/KompleksanBroj.h
+iostream
+-
+math.h
+-
+
+/home/dejan/CLionProjects/Vezba7/KompleksanBroj.h
+Broj.h
+/home/dejan/CLionProjects/Vezba7/Broj.h
+
+/home/dejan/CLionProjects/Vezba7/main.cpp
+iostream
+-
+Broj.h
+/home/dejan/CLionProjects/Vezba7/Broj.h
+KompleksanBroj.h
+/home/dejan/CLionProjects/Vezba7/KompleksanBroj.h
+

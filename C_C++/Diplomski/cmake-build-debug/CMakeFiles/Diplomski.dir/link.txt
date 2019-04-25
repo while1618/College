@@ -1,0 +1,3 @@
+C:\Users\While\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4129.51\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Diplomski.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Diplomski.dir/objects.a @CMakeFiles\Diplomski.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Diplomski.dir/objects.a -Wl,--no-whole-archive  -o Diplomski.exe -Wl,--out-implib,libDiplomski.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Diplomski.dir\linklibs.rsp

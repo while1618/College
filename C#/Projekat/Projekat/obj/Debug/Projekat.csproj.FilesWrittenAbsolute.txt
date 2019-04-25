@@ -1,0 +1,13 @@
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.GlavnaAdminForma.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.IzbornaListaForm.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.PredmetForm.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.SmerForm.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.StatistikaForm.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.StudentForm.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.PocetnaForm.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.KorisnikForm.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.Properties.Resources.resources
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.exe
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/obj/Debug/Projekat.pdb
+/home/while/Dropbox/Kodovi/TVP (C#)/Projekat/Projekat/bin/Debug/System.Data.SQLite.dll

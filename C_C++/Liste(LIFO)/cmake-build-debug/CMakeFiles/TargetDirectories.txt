@@ -1,0 +1,3 @@
+/home/dejan/CLionProjects/Drago/Liste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dejan/CLionProjects/Drago/Liste/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dejan/CLionProjects/Drago/Liste/cmake-build-debug/CMakeFiles/Liste.dir

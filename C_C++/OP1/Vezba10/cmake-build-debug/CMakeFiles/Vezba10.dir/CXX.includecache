@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Knjiga.cpp
+Knjiga.h
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Knjiga.h
+
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Knjiga.h
+iostream
+-
+
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Polica.cpp
+Polica.h
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Polica.h
+
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Polica.h
+iostream
+-
+Knjiga.h
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Knjiga.h
+
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/main.cpp
+iostream
+-
+Knjiga.h
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Knjiga.h
+Polica.h
+C:/Users/While/Dropbox/Kodovi/Objektno programiranje 1/Vezba10/Polica.h
+
